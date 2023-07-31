@@ -2,7 +2,7 @@
 # Recommendiation System
 
 ### Project Overview:
-This recomm system is a Content-Based Recommender System that  analyzes user preferences and movie attributes to suggest similar movies and incorporates sentiment analysis of user reviews for enhanced recommendations.
+This recommendation system is a Content-Based Recommender System that  analyzes user preferences and movie attributes to suggest similar movies and incorporates sentiment analysis of user reviews for enhanced recommendations.
 
 
 ### Dataset Description:
